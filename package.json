@@ -7,8 +7,14 @@
 		"start": "node myApp.js"
 	},
 	"dependencies": {
+		"are-we-there-yet": "^4.0.2",
+		"bcryptjs": "^2.4.3",
 		"express": "^4.21.1",
-		"helmet": "3.21.3"
+		"gauge": "^5.0.2",
+		"glob": "^11.0.1",
+		"helmet": "3.21.3",
+		"npmlog": "^7.0.1",
+		"rimraf": "^6.0.1"
 	},
 	"keywords": [
 		"node",
