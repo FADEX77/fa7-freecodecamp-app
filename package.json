@@ -8,6 +8,7 @@
 	},
 	"dependencies": {
 		"are-we-there-yet": "^4.0.2",
+		"bcrypt": "^5.1.1",
 		"bcryptjs": "^2.4.3",
 		"express": "^4.21.1",
 		"gauge": "^5.0.2",
